@@ -1,2 +1,2 @@
 # src
-CreditCardCleaner
+CreditCleaner
